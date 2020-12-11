@@ -19,7 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="551a5297-b3b1-4169-b1af-71e6275599c8" name="Default Changelist" comment="" />
+    <list default="true" id="551a5297-b3b1-4169-b1af-71e6275599c8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/components/ImportCsv.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/components/ImportCsv.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/tests/unit/ImportCsv.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/tests/unit/ImportCsv.spec.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -171,6 +176,7 @@
     <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/@jest" />
     <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PhpStorm 2020.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -187,21 +193,13 @@
       <recent name="F:\TestProjects\Laravel_Vue\ImportContact\resources\js\components" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.watch">
+  <component name="RunManager" selected="Mocha.ImportCsv.test do not move next wizard without csv">
     <configuration name="ContactControllerTest.testImportContactsAPI" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
       <TestRunner class="Tests\Feature\ContactControllerTest" configuration_file="$PROJECT_DIR$/phpunit.xml" file="$PROJECT_DIR$/tests/Feature/ContactControllerTest.php" method="testImportContactsAPI" scope="Method" />
       <method v="2" />
     </configuration>
     <configuration name="ContactControllerTest.testImportContactsSkipAPI" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
       <TestRunner class="Tests\Feature\ContactControllerTest" configuration_file="$PROJECT_DIR$/phpunit.xml" file="$PROJECT_DIR$/tests/Feature/ContactControllerTest.php" method="testImportContactsSkipAPI" scope="Method" />
-      <method v="2" />
-    </configuration>
-    <configuration name="IndexTest.testExample" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner class="Tests\Feature\IndexTest" configuration_file="$PROJECT_DIR$/phpunit.xml" file="$PROJECT_DIR$/tests/Feature/IndexTest.php" method="testExample" scope="Method" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TodoTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner class="Tests\Feature\TodoTest" configuration_file="$PROJECT_DIR$/phpunit.xml" file="$PROJECT_DIR$/tests/Feature/TodoTest.php" scope="Class" />
       <method v="2" />
     </configuration>
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -236,23 +234,55 @@
       </test-names>
       <method v="2" />
     </configuration>
+    <configuration name="ImportCsv.is a Vue instance" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/resources/js/tests/unit/ImportCsv.spec.js</test-file>
+      <test-names>
+        <name value="ImportCsv" />
+        <name value="is a Vue instance" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="ImportCsv.test do not move next wizard without csv" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/resources/js/tests/unit/ImportCsv.spec.js</test-file>
+      <test-names>
+        <name value="ImportCsv" />
+        <name value="test do not move next wizard without csv" />
+      </test-names>
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Mocha.ImportCsv" />
       <item itemvalue="npm.watch" />
       <item itemvalue="PHP Script.artisan" />
       <item itemvalue="PHPUnit.phpunit.xml" />
-      <item itemvalue="PHPUnit.TodoTest" />
-      <item itemvalue="PHPUnit.IndexTest.testExample" />
       <item itemvalue="PHPUnit.ContactControllerTest.testImportContactsAPI" />
       <item itemvalue="PHPUnit.ContactControllerTest.testImportContactsSkipAPI" />
+      <item itemvalue="Mocha.ImportCsv.is a Vue instance" />
+      <item itemvalue="Mocha.ImportCsv" />
+      <item itemvalue="Mocha.ImportCsv.test do not move next wizard without csv" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Mocha.ImportCsv.test do not move next wizard without csv" />
+        <item itemvalue="Mocha.ImportCsv" />
+        <item itemvalue="Mocha.ImportCsv.is a Vue instance" />
         <item itemvalue="PHPUnit.ContactControllerTest.testImportContactsSkipAPI" />
         <item itemvalue="PHPUnit.ContactControllerTest.testImportContactsAPI" />
-        <item itemvalue="PHPUnit.IndexTest.testExample" />
-        <item itemvalue="PHPUnit.TodoTest" />
-        <item itemvalue="Mocha.ImportCsv" />
       </list>
     </recent_temporary>
   </component>
@@ -267,7 +297,8 @@
       <workItem from="1607489679915" duration="4113000" />
       <workItem from="1607493913006" duration="1258000" />
       <workItem from="1607631101320" duration="3434000" />
-      <workItem from="1607635243098" duration="4223000" />
+      <workItem from="1607635243098" duration="4381000" />
+      <workItem from="1607664352363" duration="9903000" />
     </task>
     <servers />
   </component>
@@ -291,82 +322,90 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="1166" y="218" key="#PHP/0.0.2048.1112@0.0.2048.1112" timestamp="1607491491663" />
-    <state x="914" y="211" width="1089" height="775" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607634184952">
+    <state x="914" y="211" width="1089" height="775" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607664801488">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="914" y="211" width="1089" height="775" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1607634184952" />
+    <state x="914" y="211" width="1089" height="775" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1607664801488" />
     <state x="1239" y="330" key="FileChooserDialogImpl" timestamp="1607634182427">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="1239" y="330" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1607634182427" />
-    <state width="1192" height="374" key="GridCell.Tab.0.bottom" timestamp="1607639068547">
+    <state width="890" height="374" key="GridCell.Tab.0.bottom" timestamp="1607674547257">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1192" height="374" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1607639068547" />
-    <state width="1192" height="374" key="GridCell.Tab.0.center" timestamp="1607639068547">
+    <state width="890" height="374" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1607674547257" />
+    <state width="890" height="374" key="GridCell.Tab.0.center" timestamp="1607674547257">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1192" height="374" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1607639068547" />
-    <state width="1192" height="374" key="GridCell.Tab.0.left" timestamp="1607639068546">
+    <state width="890" height="374" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1607674547257" />
+    <state width="890" height="374" key="GridCell.Tab.0.left" timestamp="1607674547257">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1192" height="374" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1607639068546" />
-    <state width="1192" height="374" key="GridCell.Tab.0.right" timestamp="1607639068547">
+    <state width="890" height="374" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1607674547257" />
+    <state width="890" height="374" key="GridCell.Tab.0.right" timestamp="1607674547257">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1192" height="374" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1607639068547" />
-    <state width="1192" height="374" key="GridCell.Tab.1.bottom" timestamp="1607639068547">
+    <state width="890" height="374" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1607674547257" />
+    <state width="890" height="374" key="GridCell.Tab.1.bottom" timestamp="1607674547257">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1192" height="374" key="GridCell.Tab.1.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1607639068547" />
-    <state width="1192" height="374" key="GridCell.Tab.1.center" timestamp="1607639068547">
+    <state width="890" height="374" key="GridCell.Tab.1.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1607674547257" />
+    <state width="890" height="374" key="GridCell.Tab.1.center" timestamp="1607674547257">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1192" height="374" key="GridCell.Tab.1.center/0.0.2048.1112@0.0.2048.1112" timestamp="1607639068547" />
-    <state width="1192" height="374" key="GridCell.Tab.1.left" timestamp="1607639068547">
+    <state width="890" height="374" key="GridCell.Tab.1.center/0.0.2048.1112@0.0.2048.1112" timestamp="1607674547257" />
+    <state width="890" height="374" key="GridCell.Tab.1.left" timestamp="1607674547257">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1192" height="374" key="GridCell.Tab.1.left/0.0.2048.1112@0.0.2048.1112" timestamp="1607639068547" />
-    <state width="1192" height="374" key="GridCell.Tab.1.right" timestamp="1607639068547">
+    <state width="890" height="374" key="GridCell.Tab.1.left/0.0.2048.1112@0.0.2048.1112" timestamp="1607674547257" />
+    <state width="890" height="374" key="GridCell.Tab.1.right" timestamp="1607674547257">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1192" height="374" key="GridCell.Tab.1.right/0.0.2048.1112@0.0.2048.1112" timestamp="1607639068547" />
-    <state width="1192" height="374" key="GridCell.Tab.2.bottom" timestamp="1607638059017">
+    <state width="890" height="374" key="GridCell.Tab.1.right/0.0.2048.1112@0.0.2048.1112" timestamp="1607674547257" />
+    <state width="890" height="374" key="GridCell.Tab.2.bottom" timestamp="1607674547258">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1192" height="374" key="GridCell.Tab.2.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1607638059017" />
-    <state width="1192" height="374" key="GridCell.Tab.2.center" timestamp="1607638059017">
+    <state width="890" height="374" key="GridCell.Tab.2.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1607674547258" />
+    <state width="890" height="374" key="GridCell.Tab.2.center" timestamp="1607674547257">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1192" height="374" key="GridCell.Tab.2.center/0.0.2048.1112@0.0.2048.1112" timestamp="1607638059017" />
-    <state width="1192" height="374" key="GridCell.Tab.2.left" timestamp="1607638059017">
+    <state width="890" height="374" key="GridCell.Tab.2.center/0.0.2048.1112@0.0.2048.1112" timestamp="1607674547257" />
+    <state width="890" height="374" key="GridCell.Tab.2.left" timestamp="1607674547257">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1192" height="374" key="GridCell.Tab.2.left/0.0.2048.1112@0.0.2048.1112" timestamp="1607638059017" />
-    <state width="1192" height="374" key="GridCell.Tab.2.right" timestamp="1607638059017">
+    <state width="890" height="374" key="GridCell.Tab.2.left/0.0.2048.1112@0.0.2048.1112" timestamp="1607674547257" />
+    <state width="890" height="374" key="GridCell.Tab.2.right" timestamp="1607674547258">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1192" height="374" key="GridCell.Tab.2.right/0.0.2048.1112@0.0.2048.1112" timestamp="1607638059017" />
-    <state width="1192" height="374" key="GridCell.Tab.3.bottom" timestamp="1607637421533">
+    <state width="890" height="374" key="GridCell.Tab.2.right/0.0.2048.1112@0.0.2048.1112" timestamp="1607674547258" />
+    <state width="890" height="374" key="GridCell.Tab.3.bottom" timestamp="1607674547259">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1192" height="374" key="GridCell.Tab.3.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1607637421533" />
-    <state width="1192" height="374" key="GridCell.Tab.3.center" timestamp="1607637421533">
+    <state width="890" height="374" key="GridCell.Tab.3.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1607674547259" />
+    <state width="890" height="374" key="GridCell.Tab.3.center" timestamp="1607674547258">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1192" height="374" key="GridCell.Tab.3.center/0.0.2048.1112@0.0.2048.1112" timestamp="1607637421533" />
-    <state width="1192" height="374" key="GridCell.Tab.3.left" timestamp="1607637421533">
+    <state width="890" height="374" key="GridCell.Tab.3.center/0.0.2048.1112@0.0.2048.1112" timestamp="1607674547258" />
+    <state width="890" height="374" key="GridCell.Tab.3.left" timestamp="1607674547258">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1192" height="374" key="GridCell.Tab.3.left/0.0.2048.1112@0.0.2048.1112" timestamp="1607637421533" />
-    <state width="1192" height="374" key="GridCell.Tab.3.right" timestamp="1607637421533">
+    <state width="890" height="374" key="GridCell.Tab.3.left/0.0.2048.1112@0.0.2048.1112" timestamp="1607674547258" />
+    <state width="890" height="374" key="GridCell.Tab.3.right" timestamp="1607674547259">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1192" height="374" key="GridCell.Tab.3.right/0.0.2048.1112@0.0.2048.1112" timestamp="1607637421533" />
+    <state width="890" height="374" key="GridCell.Tab.3.right/0.0.2048.1112@0.0.2048.1112" timestamp="1607674547259" />
     <state x="1266" y="364" key="PhpDebugProjectChooserDialog" timestamp="1607637462139">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="1266" y="364" key="PhpDebugProjectChooserDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1607637462139" />
+    <state x="1296" y="317" width="579" height="534" key="find.popup" timestamp="1607677731802">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="1296" y="317" width="579" height="534" key="find.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1607677731802" />
+    <state x="1249" y="275" width="672" height="678" key="search.everywhere.popup" timestamp="1607675806746">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="1249" y="275" width="672" height="678" key="search.everywhere.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1607675806746" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -380,6 +419,12 @@
           <url>file://$PROJECT_DIR$/app/Http/Controllers/ContactController.php</url>
           <line>29</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/resources/js/components/ImportCsv.vue</url>
+          <line>139</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

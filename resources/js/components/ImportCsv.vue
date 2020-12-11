@@ -5,7 +5,7 @@
             title="Import SpreadSheet"
             subtitle="Import your contacts from a spreadsheet."
         >
-            <tab-content title="Upload" icon="ti-upload" :before-change="beforeStep2">
+            <tab-content title="Upload" id="upload_tab" icon="ti-upload" :before-change="beforeStep2">
                 <b-container>
                     <b-row align-h="center">
                         <b-col cols="10">
